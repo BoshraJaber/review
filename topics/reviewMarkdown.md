@@ -1,7 +1,7 @@
 # Review Markdown
 
 ### Review Markdown
-* Markdown is a scripting languages
+* Markdown is a programming languages
 * Used for documentaion
 - another way to list 
 
